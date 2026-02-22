@@ -19,7 +19,7 @@ Estudiante de Ingeniería de Sistemas (7° semestre) <br>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular" />
 </p>
 
 ### ⚙️ Backend
@@ -35,7 +35,6 @@ Estudiante de Ingeniería de Sistemas (7° semestre) <br>
 ### 🛠️ Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode" />
-
 </p>
 
 ---
@@ -44,6 +43,7 @@ Estudiante de Ingeniería de Sistemas (7° semestre) <br>
 
 - 🔹 Desarrollo Fullstack con enfoque en arquitectura limpia
 - 🔹 Construcción de SPAs modernas con Angular y React
+- 🔹 Maquetación estructurada y diseño con HTML y CSS
 - 🔹 Diseño y consumo de APIs REST con Node.js y Express
 - 🔹 Modelado y gestión de bases de datos relacionales
 - 🔹 Buenas prácticas, estructura escalable y código mantenible
