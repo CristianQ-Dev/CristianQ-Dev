@@ -6,7 +6,6 @@
 
 <p align="center">
 Estudiante de Ingeniería de Sistemas (7° semestre) <br>
-Enfocado en desarrollo de aplicaciones web modernas, arquitectura SPA y APIs REST escalables.
 </p>
 
 ---
@@ -36,7 +35,7 @@ Enfocado en desarrollo de aplicaciones web modernas, arquitectura SPA y APIs RES
 ### 🛠️ Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/>
+
 </p>
 
 ---
