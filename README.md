@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cristian%20Quiñone&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cristian%20Quiñons&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">💻 Fullstack Developer | Ingeniería de Sistemas</h2>
+<h2 align="center">💻 Ingeniería de Sistemas</h2>
 
 <p align="center">
 Estudiante de Ingeniería de Sistemas (7° semestre) <br>
@@ -37,15 +37,6 @@ Enfocado en desarrollo de aplicaciones web modernas, arquitectura SPA y APIs RES
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CristianQ-Dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianQ-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
